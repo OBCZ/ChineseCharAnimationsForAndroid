@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/character_vector_8510">
+
+    <target android:name="stroke_1" android:animation="@animator/character_animator_8510_stroke_1" />
+    <target android:name="stroke_2" android:animation="@animator/character_animator_8510_stroke_2" />
+    <target android:name="stroke_3" android:animation="@animator/character_animator_8510_stroke_3" />
+    <target android:name="stroke_4" android:animation="@animator/character_animator_8510_stroke_4" />
+    <target android:name="stroke_5" android:animation="@animator/character_animator_8510_stroke_5" />
+    <target android:name="stroke_6" android:animation="@animator/character_animator_8510_stroke_6" />
+
+</animated-vector>

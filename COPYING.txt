@@ -1,0 +1,1 @@
+Files containing SVG data (\hsk\src\hsk.\res\drawable\character_vector_*.xml) are licensed under Arphic Public License (see file ARPHICPL.txt).

@@ -1,0 +1,62 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="1024"
+    android:viewportHeight="1024">
+  <path
+      android:pathData="M349,229Q358,230 366,234Q399,241 434,233Q567,211 705,189Q768,176 777,168Q787,159 783,150Q776,137 743,126Q709,119 605,150Q463,180 342,191C312,194 320,222 349,229Z"
+      android:fillColor="#d3d3d3"/>
+  <path
+      android:pathData="M342,191Q339,188 336,187Q284,159 268,162Q246,166 263,190Q294,245 268,465Q258,537 219,621Q189,690 89,782Q73,795 70,803Q67,810 80,810Q122,810 203,730Q288,640 318,488Q337,394 344,254Q347,239 349,229C355,200 355,198 342,191Z"
+      android:fillColor="#d3d3d3"/>
+  <path
+      android:pathData="M578,485Q648,469 717,460Q736,459 742,468Q749,481 746,520Q736,658 709,731Q696,777 680,791Q667,804 639,797Q602,787 569,775Q544,768 561,791Q610,843 638,884Q648,906 671,900Q689,899 711,874Q775,813 805,564Q812,509 834,477Q853,453 842,442Q826,423 786,405Q758,392 729,404Q668,429 587,449L526,462Q420,480 359,480Q337,479 337,490Q336,500 360,516Q390,535 416,526Q467,511 517,500L578,485Z"
+      android:fillColor="#d3d3d3"/>
+  <path
+      android:pathData="M517,500Q469,668 280,880Q273,890 281,892Q291,893 302,886Q380,835 440,763Q533,661 578,485L587,449Q602,377 619,331Q626,318 617,308Q608,298 571,284Q544,275 534,279Q519,286 524,303Q542,372 526,462L517,500Z"
+      android:fillColor="#d3d3d3"/>
+  <group>
+    <clip-path android:pathData="M349,229Q358,230 366,234Q399,241 434,233Q567,211 705,189Q768,176 777,168Q787,159 783,150Q776,137 743,126Q709,119 605,150Q463,180 342,191C312,194 320,222 349,229Z M 0,0"/>
+    <path
+        android:pathData="M350,196L369,211L422,209L681,161L735,153L769,155"
+        android:name="stroke_1"
+        android:strokeLineJoin="round"
+        android:strokeWidth="160"
+        android:strokeColor="@color/color_HSK_primary"
+        android:strokeLineCap="round"
+        android:trimPathEnd="0"/>
+  </group>
+  <group>
+    <clip-path android:pathData="M342,191Q339,188 336,187Q284,159 268,162Q246,166 263,190Q294,245 268,465Q258,537 219,621Q189,690 89,782Q73,795 70,803Q67,810 80,810Q122,810 203,730Q288,640 318,488Q337,394 344,254Q347,239 349,229C355,200 355,198 342,191Z M 0,0"/>
+    <path
+        android:pathData="M269,177L283,184L309,213L312,228L306,379L279,541L245,627L208,688L128,771L78,802"
+        android:name="stroke_2"
+        android:strokeLineJoin="round"
+        android:strokeWidth="160"
+        android:strokeColor="@color/color_HSK_primary"
+        android:strokeLineCap="round"
+        android:trimPathEnd="0"/>
+  </group>
+  <group>
+    <clip-path android:pathData="M578,485Q648,469 717,460Q736,459 742,468Q749,481 746,520Q736,658 709,731Q696,777 680,791Q667,804 639,797Q602,787 569,775Q544,768 561,791Q610,843 638,884Q648,906 671,900Q689,899 711,874Q775,813 805,564Q812,509 834,477Q853,453 842,442Q826,423 786,405Q758,392 729,404Q668,429 587,449L526,462Q420,480 359,480Q337,479 337,490Q336,500 360,516Q390,535 416,526Q467,511 517,500L578,485Z M 0,0"/>
+    <path
+        android:pathData="M347,491L404,503L719,434L754,433L786,455L757,676L736,757L710,813L670,846L562,781"
+        android:name="stroke_3"
+        android:strokeLineJoin="round"
+        android:strokeWidth="160"
+        android:strokeColor="@color/color_HSK_primary"
+        android:strokeLineCap="round"
+        android:trimPathEnd="0"/>
+  </group>
+  <group>
+    <clip-path android:pathData="M517,500Q469,668 280,880Q273,890 281,892Q291,893 302,886Q380,835 440,763Q533,661 578,485L587,449Q602,377 619,331Q626,318 617,308Q608,298 571,284Q544,275 534,279Q519,286 524,303Q542,372 526,462L517,500Z M 0,0"/>
+    <path
+        android:pathData="M540,296L566,321L573,336L549,487L512,596L471,674L416,753L347,831L286,886"
+        android:name="stroke_4"
+        android:strokeLineJoin="round"
+        android:strokeWidth="160"
+        android:strokeColor="@color/color_HSK_primary"
+        android:strokeLineCap="round"
+        android:trimPathEnd="0"/>
+  </group>
+</vector>
